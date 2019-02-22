@@ -3,7 +3,7 @@ module.exports = ({ env }) => ({
     'postcss-preset-env': {
       stage: 0,
 
-      autoprefixer: env === 'production',
+      autoprefixer: env && {},
     },
   },
 });
