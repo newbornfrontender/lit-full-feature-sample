@@ -1,5 +1,6 @@
 import resolve from 'rollup-plugin-node-resolve';
 
+import postcss from './plugins/postcss';
 import babel from './plugins/babel';
 
 export default {
@@ -8,6 +9,7 @@ export default {
   output: {
     format: 'esm',
     dir: 'public',
+    preferConst: true,
   },
 
   plugins: [
@@ -17,6 +19,7 @@ export default {
       modulesOnly: true,
     }),
 
+    postcss(),
     babel(),
   ],
 };
