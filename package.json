@@ -4,6 +4,17 @@
   "repository": "git@github.com:newbornfrontender/lit-full-feature-sample.git",
   "author": "Infant Frontender <newbornfrontender@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "dependencies": {
+    "@babel/core": "^7.3.3",
+    "@open-wc/prettier-config": "^0.1.7",
+    "postcss": "^7.0.14",
+    "postcss-load-config": "^2.0.0",
+    "rollup-plugin-node-resolve": "^4.0.1",
+    "rollup-pluginutils": "^2.4.1"
+  },
   "devDependencies": {
     "@babel/preset-env": "^7.3.1",
     "@commitlint/cli": "^7.5.2",
@@ -19,13 +30,5 @@
     "stylelint": "^9.10.1",
     "stylelint-config-standard": "^18.2.0",
     "stylelint-prettier": "^1.0.6"
-  },
-  "dependencies": {
-    "@babel/core": "^7.3.3",
-    "@open-wc/prettier-config": "^0.1.7",
-    "postcss": "^7.0.14",
-    "postcss-load-config": "^2.0.0",
-    "rollup-plugin-node-resolve": "^4.0.1",
-    "rollup-pluginutils": "^2.4.1"
   }
 }
