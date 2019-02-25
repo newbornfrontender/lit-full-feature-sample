@@ -3411,10 +3411,10 @@ path-type@^3.0.0:
   dependencies:
     pify "^3.0.0"
 
-phtml@2.0.1:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/phtml/-/phtml-2.0.1.tgz#af91a27e1bc86d3adbf6816e202b63a682963344"
-  integrity sha512-kb4v0bwLyleLJuauX+9Xx6QAu/Yvai1m5pknLmXq9lajZCJZzW1YxERt+mr1v4//1qZ0ejw61eNxtJab53fQ6g==
+phtml@2.0.2:
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/phtml/-/phtml-2.0.2.tgz#48e85974013b930e1e6dee5271c8d92b9b673bfc"
+  integrity sha512-5hZXbsaMGF+cn/0cLdWOriqGjhfbb4QjAD7YcACPQQEIggWHfX8SJz54kAcpdgPdvmDz/MAu2ztX4f+PjFdfDg==
   dependencies:
     parse5 "^5.1.0"
 
