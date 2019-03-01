@@ -26,7 +26,7 @@
     "phtml": "2.0.1",
     "postcss-preset-env": "6.5.0",
     "prettier": "1.16.4",
-    "rollup": "1.2.2",
+    "rollup": "1.4.0",
     "stylelint": "9.10.1",
     "stylelint-config-standard": "18.2.0",
     "stylelint-prettier": "1.0.6"
