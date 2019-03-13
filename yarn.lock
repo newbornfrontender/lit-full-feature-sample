@@ -839,10 +839,10 @@
     eslint-plugin-import "^2.0.0"
     eslint-plugin-wc "^1.0.0"
 
-"@open-wc/prettier-config@0.1.8":
-  version "0.1.8"
-  resolved "https://registry.yarnpkg.com/@open-wc/prettier-config/-/prettier-config-0.1.8.tgz#e1f8d93148092b0f2f7e96ade3ecc5e736dad9a6"
-  integrity sha512-aEgb5LLDviYBqFe9yhXWduI+sVZJRRqmBxqj8M5HHVbdO/PtA/ZQtPfD4eSyiWYEcIB0ogaL/noAskQtKSIQxA==
+"@open-wc/prettier-config@0.1.9":
+  version "0.1.9"
+  resolved "https://registry.yarnpkg.com/@open-wc/prettier-config/-/prettier-config-0.1.9.tgz#a226201b2e04ebd5b4cc3895af9934957a67a037"
+  integrity sha512-ET1j8GfnWTU5UHx6JY+/ltyW61o/6LMXXfJC6kivb+cqpIxLDd4dM3BLvinGYJ2dcjxgVNrJzB4OEknOFMwISg==
   dependencies:
     eslint-config-prettier "^3.3.0"
     prettier "^1.15.0"
