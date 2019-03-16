@@ -3617,10 +3617,10 @@ path-type@^3.0.0:
   dependencies:
     pify "^3.0.0"
 
-phtml@2.0.4:
-  version "2.0.4"
-  resolved "https://registry.yarnpkg.com/phtml/-/phtml-2.0.4.tgz#726458b57bfa4fd7f77f73fbc12246f6e553b8da"
-  integrity sha512-F11hNLqtHqdoPHB0FlWlOITb6KXb9Mk+lCyRjmB1yE9QFB4tsw1X3OsCBwm2yoAILfHRkqYrxwtvbTBOCnwJMw==
+phtml@3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/phtml/-/phtml-3.0.0.tgz#835b4099b08d1a1aacf3594501bc3a0f6384b553"
+  integrity sha512-ryYFTOIUGMgb3ScqlXzRCnrr8O4N2AQFag+POJqDp1l0VZgFNjCJvT1EcBhYgqdbojuNBILobMz7ICYTufso2Q==
   dependencies:
     parse5 "^5.1.0"
 
