@@ -3914,10 +3914,10 @@ path-type@^3.0.0:
   dependencies:
     pify "^3.0.0"
 
-phtml@3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/phtml/-/phtml-3.0.0.tgz#835b4099b08d1a1aacf3594501bc3a0f6384b553"
-  integrity sha512-ryYFTOIUGMgb3ScqlXzRCnrr8O4N2AQFag+POJqDp1l0VZgFNjCJvT1EcBhYgqdbojuNBILobMz7ICYTufso2Q==
+phtml@3.1.0:
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/phtml/-/phtml-3.1.0.tgz#7eea4ed0bf6a9f526b9fedd6b70058dec237f5e3"
+  integrity sha512-OuGV5Ru9ldB54SmTpTG5BGtYqTWOTQaypZCmIhAJiXJKvv3KNzQeLd+agG+2hrnda+gRZIQUFHoeuUHX5hRXxA==
   dependencies:
     parse5 "^5.1.0"
 
