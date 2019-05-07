@@ -22,7 +22,7 @@
     "@open-wc/eslint-config": "0.4.5",
     "eslint": "5.16.0",
     "husky": "2.2.0",
-    "lint-staged": "8.1.5",
+    "lint-staged": "8.1.6",
     "phtml": "3.2.1",
     "postcss-preset-env": "6.6.0",
     "prettier": "1.17.0",
