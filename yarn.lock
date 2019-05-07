@@ -3899,10 +3899,10 @@ path-type@^3.0.0:
   dependencies:
     pify "^3.0.0"
 
-phtml@3.2.1:
-  version "3.2.1"
-  resolved "https://registry.yarnpkg.com/phtml/-/phtml-3.2.1.tgz#f559f907d3bac2b83f6b97a1e00dbb19e0ef9fa4"
-  integrity sha512-/YcueLJ6OuXNnLY7Ql6KccazWQjRAI53aL+XIeKh66yp07QGxGSZfZW4FstKQsTJ5QnWXGemI+CN97vZUPXQDw==
+phtml@3.3.1:
+  version "3.3.1"
+  resolved "https://registry.yarnpkg.com/phtml/-/phtml-3.3.1.tgz#3725bf05a211088186b50b440439f0643760cb92"
+  integrity sha512-rjfjec3X9tu2OSXz9DIRbiTO+zzZmwu20677n8EInC+ckPip1+aFj2CkNKLJXSFVEKUgSu0+Q9PA2NVIotEjpg==
   dependencies:
     parse5 "^5.1.0"
 
