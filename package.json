@@ -12,7 +12,7 @@
     "@open-wc/prettier-config": "0.1.10",
     "postcss": "7.0.16",
     "postcss-load-config": "2.0.0",
-    "rollup-plugin-node-resolve": "4.2.4",
+    "rollup-plugin-node-resolve": "5.0.1",
     "rollup-pluginutils": "2.8.1"
   },
   "devDependencies": {
