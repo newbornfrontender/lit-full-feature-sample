@@ -973,10 +973,10 @@
   resolved "https://registry.yarnpkg.com/@nodelib/fs.stat/-/fs.stat-1.1.3.tgz#2b5a3ab3f918cca48a8c754c08168e3f03eba61b"
   integrity sha512-shAmDyaQC4H92APFoIaVDHCx5bStIocgvbwQyxPRrbUY20V1EYTbSDchWbuwlMG3V17cprZhA6+78JfB+3DTPw==
 
-"@open-wc/eslint-config@1.1.0":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@open-wc/eslint-config/-/eslint-config-1.1.0.tgz#0e634638858bce45d5bec2edf42ad83011693383"
-  integrity sha512-/BjvoBibjpcTPFp4J+N5Avfr/LSz9NscEwJvfQguW6qCJxYCbID2QC7wbYFgn9TNz3DX9CxKQcKxgx/EiK2gCA==
+"@open-wc/eslint-config@1.1.1":
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/@open-wc/eslint-config/-/eslint-config-1.1.1.tgz#f82ff6885b90a4030f45ebc3d5591c4d11ccb3ba"
+  integrity sha512-5+cLpTfeWOsuG+aUxSHDtd/0hROEG6B4sb7+fVbehS9xTeOXjPu4dKbn7qvEop3JA3TGWEhFBZlJ5GMUmNxPOQ==
   dependencies:
     babel-eslint "^10.0.0"
     eslint "^6.1.0"
