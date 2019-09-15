@@ -13,7 +13,7 @@
     "postcss": "7.0.18",
     "postcss-load-config": "2.1.0",
     "rollup-plugin-node-resolve": "5.0.1",
-    "rollup-pluginutils": "2.8.1"
+    "rollup-pluginutils": "2.8.2"
   },
   "devDependencies": {
     "@babel/preset-env": "7.5.5",
