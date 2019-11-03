@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@babel/core": "7.5.5",
-    "@open-wc/prettier-config": "0.1.10",
+    "@open-wc/prettier-config": "0.1.12",
     "postcss": "7.0.18",
     "postcss-load-config": "2.1.0",
     "rollup-plugin-node-resolve": "5.0.1",
