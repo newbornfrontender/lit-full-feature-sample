@@ -8,7 +8,7 @@
     "build": "rollup -c"
   },
   "dependencies": {
-    "@babel/core": "7.5.5",
+    "@babel/core": "7.7.4",
     "@open-wc/prettier-config": "0.1.10",
     "postcss": "7.0.18",
     "postcss-load-config": "2.1.0",
@@ -16,7 +16,7 @@
     "rollup-pluginutils": "2.8.2"
   },
   "devDependencies": {
-    "@babel/preset-env": "7.5.5",
+    "@babel/preset-env": "7.7.4",
     "@commitlint/cli": "8.2.0",
     "@commitlint/config-conventional": "8.2.0",
     "@open-wc/eslint-config": "1.1.1",
